@@ -1,5 +1,5 @@
 .header{
-    background-color: #001F5B;
+    background-color: #15284f;
     color: white;
     border: 1px solid black;
     border-radius: 5px;
@@ -26,5 +26,9 @@ body
 
 .eimage{
  height: 200px;
- width: 200px;
+ width: 250px;
+}
+
+.ebond {
+    display: flex;
 }
