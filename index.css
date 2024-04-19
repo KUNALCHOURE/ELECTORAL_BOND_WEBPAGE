@@ -44,8 +44,16 @@ a{
 }
 
 #globe{
-    height: 100px;
+    height: 90px;
     width: 100px;
     background-color: #15284f;
     border-radius: 50%;
+    position: relative;
+    left: 10px;
+}
+
+
+.header h1{
+    position: relative;
+    left: 20px;
 }
