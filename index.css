@@ -4,6 +4,9 @@
     border: 1px solid black;
     border-radius: 5px;
     display: flex;
+    justify-content: space-between;
+    align-items:  center;
+    
 }
 .bodyy{
    
@@ -57,3 +60,21 @@ a{
     position: relative;
     left: 20px;
 }
+
+.NAV{
+    display: flex;
+}
+
+.NAV h4{
+ margin: 0;
+ padding: 0 10px;
+}
+
+.NAV h4:hover{
+     font-size: large;
+   }
+   
+input[type="text"] {
+    width: 400px;
+    }
+
