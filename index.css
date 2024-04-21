@@ -46,6 +46,13 @@ a{
     width: 600px;
 }
 
+#simage{
+    height: 20px;
+    width: 20px;
+    position: relative;
+  left: 5px;
+top: 3px;
+}
 #globe{
     height: 90px;
     width: 100px;
