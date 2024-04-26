@@ -79,9 +79,10 @@ top: 3px;
 
 .NAV h4:hover{
      font-size: large;
+    
    }
    
 input[type="text"] {
-    width: 400px;
+    width: 200px;
     }
 
