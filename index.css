@@ -79,6 +79,7 @@ top: 3px;
 
 .NAV h4:hover{
      font-size: large;
+     cursor: pointer;
     
    }
    
