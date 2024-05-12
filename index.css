@@ -90,3 +90,21 @@ input[type="text"] {
 .search #simage:hover{
  cursor:pointer;
 }
+
+.copyright{
+    color:#c2bcbc;
+
+}
+footer{
+    display:flex;
+}
+footer p{
+    position: relative;
+    bottom: 10px;
+}
+footer img{
+    height: 25px;
+    position:relative;
+    top: -1px;
+    margin: 5px;
+}
