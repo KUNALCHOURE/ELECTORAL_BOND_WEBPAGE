@@ -97,6 +97,7 @@ input[type="text"] {
 }
 footer{
     display:flex;
+    background-color: #15284f;
 }
 footer p{
     position: relative;
