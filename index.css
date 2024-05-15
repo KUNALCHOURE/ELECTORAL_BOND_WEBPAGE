@@ -95,12 +95,19 @@ a{
 
 .options{
     display: flex;
-  
+   
 
 }
 
 .options div{
     padding: 15px;
+    position: relative;
+    top: 30px;
+}
+
+.options div h4:hover{
+  font-size: large;
+  cursor: pointer;
 }
 
 
