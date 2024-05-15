@@ -14,6 +14,10 @@
     justify-content: space-between;
     width: 300px;
 }
+.name h1{
+    position: relative;
+    top: 18px;
+}
 #globe{
     height: 90px;
     width: 100px;
@@ -102,7 +106,7 @@ a{
 .options div{
     padding: 15px;
     position: relative;
-    top: 30px;
+    top: 15px;
 }
 
 .options div h4:hover{
