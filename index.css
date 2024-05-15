@@ -12,7 +12,7 @@
 .name{
     display: flex;
     justify-content: space-between;
-    width: 350px;
+    width: 300px;
 }
 #globe{
     height: 90px;
@@ -26,19 +26,30 @@
 {
     display: flex;
     justify-content: space-between;
+    width: 340px;
+
+}
+#label{
+    position: relative;
+    top: 30px;
+  
 }
 
+#label h3{
+    color: white;
+}
 #search{
-     top: 500px;
+        position: relative;
+     top: 50px;
     height: 20px;
-    width: 300px;
+    width: 200px;
     }
 
-#simage{
+ #simage #sphoto{
     height: 20px;
     width: 20px;
-position: absolute;
-top:28px
+position: relative;
+top:50px
 
   
 }
