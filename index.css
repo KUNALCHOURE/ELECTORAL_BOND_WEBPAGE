@@ -45,14 +45,15 @@
 #search{
         position: relative;
      top: 50px;
-    height: 20px;
-    width: 200px;
+    height: 35px;
+    width: 400px;
     }
 
  #simage #sphoto{
-    height: 20px;
-    width: 20px;
+    height: 35px;
+    width: 35px;
 position: relative;
+margin-left: 5px;
 top:50px
 
   
@@ -110,7 +111,7 @@ a{
 }
 
 .options div h4:hover{
-  font-size: large;
+    opacity: 0.9;
   cursor: pointer;
 }
 
