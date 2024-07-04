@@ -1,4 +1,4 @@
-# Electoral Bond Info Hub
+# Electoral Bond 
 
 ## Overview
 This project is a web page that provides detailed information about Electoral Bonds in India. It explains what Electoral Bonds are, how they work, their significance, key features, objectives, challenges, and controversies. The web page is designed to be informative and educational.
